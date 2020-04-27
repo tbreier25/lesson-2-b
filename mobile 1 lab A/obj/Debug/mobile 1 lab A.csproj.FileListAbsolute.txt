@@ -1,0 +1,7 @@
+D:\Mobile\Labs\mobile 1 lab A\mobile 1 lab A\bin\Debug\mobile 1 lab A.exe.config
+D:\Mobile\Labs\mobile 1 lab A\mobile 1 lab A\bin\Debug\mobile 1 lab A.exe
+D:\Mobile\Labs\mobile 1 lab A\mobile 1 lab A\bin\Debug\mobile 1 lab A.pdb
+D:\Mobile\Labs\mobile 1 lab A\mobile 1 lab A\obj\Debug\mobile 1 lab A.csprojAssemblyReference.cache
+D:\Mobile\Labs\mobile 1 lab A\mobile 1 lab A\obj\Debug\mobile 1 lab A.csproj.CoreCompileInputs.cache
+D:\Mobile\Labs\mobile 1 lab A\mobile 1 lab A\obj\Debug\mobile 1 lab A.exe
+D:\Mobile\Labs\mobile 1 lab A\mobile 1 lab A\obj\Debug\mobile 1 lab A.pdb
